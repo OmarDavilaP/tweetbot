@@ -1,7 +1,7 @@
 console.log("The bot is running");
 var Twit = require('twit');
 
-var T = new Twit({
+/*var T = new Twit({
   consumer_key:         'a1q6CB7wE6NVmstpqF3TrukeQ',
   consumer_secret:      'XmgADPNSPnZP40qpGpq4DHoV77DR3bqF6kPkMDMXSRUbf7jm2v',
   access_token:         '2304232742-Rc9pYlQCSFVIMdVjPOTgwCkaAf1597Iq8PeiWHv',
@@ -18,3 +18,4 @@ T.post('statuses/update', { status: 'hello world!' }, function(err, data, respon
 	}
   
 });
+*/
