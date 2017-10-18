@@ -1,0 +1,25 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarDavilaP/tweetbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Omar Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarDavilaP/tweetbot/issues"
+  },
+  "homepage": "https://github.com/OmarDavilaP/tweetbot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
